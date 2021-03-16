@@ -71,3 +71,14 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.likes {
+  color: rgb(40, 83, 224);
+  display: inline;
+}
+
+.comments {
+  color: rgb(37, 189, 118);
+  display: inline;
+  margin-left: 80px;
+}
